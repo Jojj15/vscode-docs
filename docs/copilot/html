@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>الامتحان</title>
+    </head>
+    <body>
+        <form artino="haajja jsjwmksiwms"></form>
+        <fieldset>
+            <legend for="name">الاسم</legend><br>
+            <input type="text" placeholder="اكتب اسك…"><br>
+            <legend for="last name">اسم العائله:</legend><br>
+            <input type="text" placeholder="اسم العائله…"><br>
+        </fieldset>
+    </body>
+</html>
